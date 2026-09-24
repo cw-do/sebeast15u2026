@@ -8,7 +8,7 @@ X-WR-CALDESC:The event schedule for the South East Beast 15u A Ice Hockey t
  eam
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT1H
-X-TS-TIMESTAMP:2026-09-24 12:36:48
+X-TS-TIMESTAMP:2026-09-24 19:27:45
 BEGIN:VTIMEZONE
 TZID:America/New_York
 BEGIN:DAYLIGHT
@@ -143,6 +143,18 @@ DESCRIPTION:Location: Ice Chalet\n   (Arrival Time:  7:45 PM (Eastern Time
  (US & Canada))) 
 LAST-MODIFIED:20260922T162154
 LOCATION:100 Lebanon St\nKnoxville TN 37919\nUnited States
+SEQUENCE:0
+SUMMARY:South East Beast 15u A - 15U Practice
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260924T131334
+UID:10179753-374217093
+DTSTART;TZID=America/New_York:20260929T190000
+DTEND;TZID=America/New_York:20260929T200000
+DESCRIPTION:Location: KCAC Parking lot C\n   (Arrival Time:  6:30 PM (Easte
+ rn Time (US & Canada))) 
+LAST-MODIFIED:20260924T131334
+LOCATION:500 Howard Baker Jr Blvd\, Knoxville\, TN 37915
 SEQUENCE:0
 SUMMARY:South East Beast 15u A - 15U Practice
 END:VEVENT
